@@ -1,0 +1,31 @@
+{
+  "document_type": "invoice",
+  "invoice_number": "INV-FAB-2026-9045",
+  "invoice_date": "2026-10-15",
+  "vendor": "silicoCore Microelectronics & Fab Ltd Invoice Number: INV-FAB-2026-9045",
+  "customer": "QuantumWave DSP Systems Inc.",
+  "currency": "USD",
+  "items": [
+    {
+      "description": "300mm Prime Silicon Epi Wafers 5Snm Node",
+      "quantity": 25.0,
+      "unit_price": 1600.0,
+      "amount": 40000.0
+    },
+    {
+      "description": "EUV Extreme Ultraviolet Photomask Reticles",
+      "quantity": 2.0,
+      "unit_price": 14000.0,
+      "amount": 28000.0
+    },
+    {
+      "description": "Chemical Mechanical Planarization (CMP) Slurry Drums",
+      "quantity": 4.0,
+      "unit_price": 3000.0,
+      "amount": 12000.0
+    }
+  ],
+  "subtotal": 80000.0,
+  "tax": null,
+  "total": 84000.0
+}

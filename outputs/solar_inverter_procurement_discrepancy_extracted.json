@@ -1,0 +1,25 @@
+{
+  "document_type": "invoice",
+  "invoice_number": "INV-SOLAR-2026-319",
+  "invoice_date": "2026-10-21",
+  "vendor": "Helios Green Energy & Power Systems Invoice Number: INV-SOLAR-2026-319",
+  "customer": "SunGrid Utility Infrastructure Pyt Ltd",
+  "currency": "INR",
+  "items": [
+    {
+      "description": "Monocrystalline 650w Bifacial Solar PV Arrays",
+      "quantity": 40.0,
+      "unit_price": 14000.0,
+      "amount": 560000.0
+    },
+    {
+      "description": "DC High-Voltage Combiner Protection Boxes",
+      "quantity": 8.0,
+      "unit_price": 15000.0,
+      "amount": 120000.0
+    }
+  ],
+  "subtotal": 1480000.0,
+  "tax": 266400.0,
+  "total": 1746400.0
+}

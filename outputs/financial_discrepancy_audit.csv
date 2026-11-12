@@ -1,0 +1,3 @@
+document,invoice_number,items_count,computed_sum,reported_subtotal,subtotal_delta,effective_tax_pct,total_delta,audit_status
+semiconductor_wafer_invoice.png,INV-FAB-2026-9045,3,80000.0,80000.0,0.0,0.0%,-4000.0,DISCREPANCY_FLAGGED
+solar_inverter_procurement_discrepancy.png,INV-SOLAR-2026-319,2,680000.0,1480000.0,-800000.0,18.0%,0.0,DISCREPANCY_FLAGGED

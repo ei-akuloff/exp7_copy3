@@ -1,0 +1,20 @@
+{
+  "document_type": "resume",
+  "candidate_name": "Hannah Lindqvist",
+  "email": "hannah.lindqvist@nordicgrid.org",
+  "phone": null,
+  "skills": [
+    "MATLAB/Simulink",
+    "PSCAD",
+    "Power System Modeling",
+    "High Voltage DC (HVDC)",
+    "Battery Energy Storage"
+  ],
+  "education": [
+    "M.Sc. in Electric Power Engineering ? KTH Royal Institute of Technology (2020)"
+  ],
+  "experience": [
+    "6.0"
+  ],
+  "years_experience": 6.0
+}

@@ -1,0 +1,6 @@
+document,invoice_number,description,quantity,unit_price,amount
+semiconductor_wafer_invoice.png,INV-FAB-2026-9045,300mm Prime Silicon Epi Wafers 5Snm Node,25.0,1600.0,40000.0
+semiconductor_wafer_invoice.png,INV-FAB-2026-9045,EUV Extreme Ultraviolet Photomask Reticles,2.0,14000.0,28000.0
+semiconductor_wafer_invoice.png,INV-FAB-2026-9045,Chemical Mechanical Planarization (CMP) Slurry Drums,4.0,3000.0,12000.0
+solar_inverter_procurement_discrepancy.png,INV-SOLAR-2026-319,Monocrystalline 650w Bifacial Solar PV Arrays,40.0,14000.0,560000.0
+solar_inverter_procurement_discrepancy.png,INV-SOLAR-2026-319,DC High-Voltage Combiner Protection Boxes,8.0,15000.0,120000.0

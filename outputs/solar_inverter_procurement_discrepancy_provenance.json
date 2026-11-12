@@ -1,0 +1,145 @@
+[
+  {
+    "field_name": "invoice_number",
+    "extracted_value": "INV-SOLAR-2026-319",
+    "page": 1,
+    "bounding_box": [
+      660,
+      175,
+      801,
+      185
+    ],
+    "ocr_confidence": 80.0,
+    "source_text": "INV-SOLAR-2026-319"
+  },
+  {
+    "field_name": "invoice_date",
+    "extracted_value": "2026-10-21",
+    "page": 1,
+    "bounding_box": [
+      582,
+      199,
+      657,
+      209
+    ],
+    "ocr_confidence": 86.0,
+    "source_text": "2026-10-21"
+  },
+  {
+    "field_name": "vendor",
+    "extracted_value": "Helios Green Energy & Power Systems Invoice Number: INV-SOLAR-2026-319",
+    "page": 1,
+    "bounding_box": [
+      99,
+      174,
+      185,
+      185
+    ],
+    "ocr_confidence": 89.5,
+    "source_text": "Helios Green"
+  },
+  {
+    "field_name": "customer",
+    "extracted_value": "SunGrid Utility Infrastructure Pyt Ltd",
+    "page": 1,
+    "bounding_box": [
+      117,
+      216,
+      373,
+      230
+    ],
+    "ocr_confidence": 67.2,
+    "source_text": "SunGrid Utility Infrastructure Pyt Ltd"
+  },
+  {
+    "field_name": "subtotal",
+    "extracted_value": "1480000.00",
+    "page": 1,
+    "bounding_box": [
+      548,
+      495,
+      623,
+      505
+    ],
+    "ocr_confidence": 85.0,
+    "source_text": "1480000.00"
+  },
+  {
+    "field_name": "tax",
+    "extracted_value": "266400.00",
+    "page": 1,
+    "bounding_box": [
+      586,
+      527,
+      657,
+      537
+    ],
+    "ocr_confidence": 86.0,
+    "source_text": "266400.00"
+  },
+  {
+    "field_name": "total",
+    "extracted_value": "1746400.00",
+    "page": 1,
+    "bounding_box": [
+      541,
+      571,
+      648,
+      585
+    ],
+    "ocr_confidence": 93.0,
+    "source_text": "1746400.00"
+  },
+  {
+    "field_name": "item_1_description",
+    "extracted_value": "Monocrystalline 650w Bifacial Solar PV Arrays",
+    "page": 1,
+    "bounding_box": [
+      56,
+      362,
+      376,
+      392
+    ],
+    "ocr_confidence": 74.8,
+    "source_text": "Monocrystalline 650w Bifacial Solar PV Arrays"
+  },
+  {
+    "field_name": "item_1_amount",
+    "extracted_value": 560000.0,
+    "page": 1,
+    "bounding_box": [
+      681,
+      372,
+      752,
+      382
+    ],
+    "ocr_confidence": 88.0,
+    "source_text": "560000.00"
+  },
+  {
+    "field_name": "item_2_description",
+    "extracted_value": "DC High-Voltage Combiner Protection Boxes",
+    "page": 1,
+    "bounding_box": [
+      56,
+      416,
+      367,
+      431
+    ],
+    "ocr_confidence": 82.2,
+    "source_text": "DC High-Voltage Combiner Protection Boxes"
+  },
+  {
+    "field_name": "item_2_amount",
+    "extracted_value": 120000.0,
+    "page": 1,
+    "bounding_box": [
+      681,
+      417,
+      752,
+      427
+    ],
+    "ocr_confidence": 83.0,
+    "source_text": "120000.00"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "field_name": "candidate_name",
+    "extracted_value": "Hannah Lindqvist",
+    "page": 1,
+    "bounding_box": [
+      114,
+      100,
+      265,
+      119
+    ],
+    "ocr_confidence": 78.0,
+    "source_text": "Hannah Lindqvist"
+  },
+  {
+    "field_name": "skill",
+    "extracted_value": "MATLAB/Simulink",
+    "page": 1,
+    "bounding_box": [
+      171,
+      392,
+      333,
+      410
+    ],
+    "ocr_confidence": 89.0,
+    "source_text": "MATLAB/Simulink,"
+  },
+  {
+    "field_name": "skill",
+    "extracted_value": "PSCAD",
+    "page": 1,
+    "bounding_box": [
+      342,
+      392,
+      412,
+      410
+    ],
+    "ocr_confidence": 91.0,
+    "source_text": "PSCAD,"
+  },
+  {
+    "field_name": "skill",
+    "extracted_value": "Power System Modeling",
+    "page": 1,
+    "bounding_box": [
+      421,
+      392,
+      637,
+      411
+    ],
+    "ocr_confidence": 91.7,
+    "source_text": "Power System Modeling,"
+  },
+  {
+    "field_name": "skill",
+    "extracted_value": "High Voltage DC (HVDC)",
+    "page": 1,
+    "bounding_box": [
+      645,
+      392,
+      870,
+      411
+    ],
+    "ocr_confidence": 92.2,
+    "source_text": "High Voltage DC (HVDC),"
+  },
+  {
+    "field_name": "skill",
+    "extracted_value": "Battery Energy Storage",
+    "page": 1,
+    "bounding_box": [
+      152,
+      305,
+      348,
+      324
+    ],
+    "ocr_confidence": 92.0,
+    "source_text": "battery energy storage"
+  },
+  {
+    "field_name": "education",
+    "extracted_value": "M.Sc. in Electric Power Engineering ? KTH Royal Institute of Technology (2020)",
+    "page": 1,
+    "bounding_box": [
+      213,
+      831,
+      282,
+      847
+    ],
+    "ocr_confidence": 88.0,
+    "source_text": "M.Sc. in"
+  },
+  {
+    "field_name": "experience",
+    "extracted_value": "6.0",
+    "page": 1,
+    "bounding_box": [
+      376,
+      247,
+      402,
+      262
+    ],
+    "ocr_confidence": 93.0,
+    "source_text": "6.0"
+  },
+  {
+    "field_name": "years_experience",
+    "extracted_value": "6.0",
+    "page": 1,
+    "bounding_box": [
+      376,
+      247,
+      402,
+      262
+    ],
+    "ocr_confidence": 93.0,
+    "source_text": "6.0"
+  }
+]

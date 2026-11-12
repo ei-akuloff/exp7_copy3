@@ -1,0 +1,5 @@
+document,type,extraction_mode,ocr_confidence,provenance_boxes,review_required,validation_flags
+semiconductor_wafer_invoice.png,invoice,offline_rules,82.3,12,False,None
+solar_inverter_procurement_discrepancy.png,invoice,offline_rules,75.8,11,True,Subtotal mismatch with line items (Sum: 680000.0 != Subtotal: 1480000.0)
+embedded_firmware_engineer_resume.png,resume,offline_rules,82.5,14,False,None
+renewable_power_systems_resume.pdf,resume,offline_rules,89.6,9,False,None

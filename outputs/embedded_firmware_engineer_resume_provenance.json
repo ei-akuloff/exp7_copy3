@@ -1,0 +1,184 @@
+[
+  {
+    "field_name": "candidate_name",
+    "extracted_value": "Vikramaditya Patel",
+    "page": 1,
+    "bounding_box": [
+      45,
+      47,
+      291,
+      74
+    ],
+    "ocr_confidence": 90.0,
+    "source_text": "Vikramaditya Patel"
+  },
+  {
+    "field_name": "email",
+    "extracted_value": "vikram.patel@embeddedsec.in",
+    "page": 1,
+    "bounding_box": [
+      85,
+      114,
+      272,
+      127
+    ],
+    "ocr_confidence": 58.0,
+    "source_text": "vikram.patel@embeddedsec.in"
+  },
+  {
+    "field_name": "phone",
+    "extracted_value": "+91 98201 44892",
+    "page": 1,
+    "bounding_box": [
+      334,
+      115,
+      436,
+      124
+    ],
+    "ocr_confidence": 92.3,
+    "source_text": "+91 98201 44892"
+  },
+  {
+    "field_name": "skill",
+    "extracted_value": "RTOS {FreeRTOS",
+    "page": 1,
+    "bounding_box": [
+      83,
+      260,
+      183,
+      271
+    ],
+    "ocr_confidence": 79.0,
+    "source_text": "RTOS {FreeRTOS,"
+  },
+  {
+    "field_name": "skill",
+    "extracted_value": "Zephyr)",
+    "page": 1,
+    "bounding_box": [
+      188,
+      259,
+      236,
+      272
+    ],
+    "ocr_confidence": 68.0,
+    "source_text": "Zephyr),"
+  },
+  {
+    "field_name": "skill",
+    "extracted_value": "Embedded C/C++",
+    "page": 1,
+    "bounding_box": [
+      242,
+      259,
+      350,
+      271
+    ],
+    "ocr_confidence": 70.0,
+    "source_text": "Embedded C/C++,"
+  },
+  {
+    "field_name": "skill",
+    "extracted_value": "ARM Cortex-M/R",
+    "page": 1,
+    "bounding_box": [
+      354,
+      260,
+      456,
+      271
+    ],
+    "ocr_confidence": 91.0,
+    "source_text": "ARM Cortex-M/R,"
+  },
+  {
+    "field_name": "skill",
+    "extracted_value": "RISC-V",
+    "page": 1,
+    "bounding_box": [
+      462,
+      260,
+      502,
+      271
+    ],
+    "ocr_confidence": 45.0,
+    "source_text": "RISC-V,"
+  },
+  {
+    "field_name": "skill",
+    "extracted_value": "SPL",
+    "page": 1,
+    "bounding_box": [
+      508,
+      260,
+      529,
+      271
+    ],
+    "ocr_confidence": 67.0,
+    "source_text": "SPL,"
+  },
+  {
+    "field_name": "skill",
+    "extracted_value": "12C",
+    "page": 1,
+    "bounding_box": [
+      533,
+      260,
+      555,
+      271
+    ],
+    "ocr_confidence": 85.0,
+    "source_text": "12C,"
+  },
+  {
+    "field_name": "skill",
+    "extracted_value": "CAN Bus",
+    "page": 1,
+    "bounding_box": [
+      561,
+      260,
+      615,
+      271
+    ],
+    "ocr_confidence": 85.0,
+    "source_text": "CAN Bus,"
+  },
+  {
+    "field_name": "education",
+    "extracted_value": "M.Tech in Embedded Systems & VLSI Design \u2014IIT Bombay Graduated 2018",
+    "page": 1,
+    "bounding_box": [
+      46,
+      559,
+      109,
+      570
+    ],
+    "ocr_confidence": 83.0,
+    "source_text": "M.Tech in"
+  },
+  {
+    "field_name": "experience",
+    "extracted_value": "8.0",
+    "page": 1,
+    "bounding_box": [
+      189,
+      650,
+      209,
+      660
+    ],
+    "ocr_confidence": 96.0,
+    "source_text": "8.0"
+  },
+  {
+    "field_name": "years_experience",
+    "extracted_value": "8.0",
+    "page": 1,
+    "bounding_box": [
+      189,
+      650,
+      209,
+      660
+    ],
+    "ocr_confidence": 96.0,
+    "source_text": "8.0"
+  }
+]

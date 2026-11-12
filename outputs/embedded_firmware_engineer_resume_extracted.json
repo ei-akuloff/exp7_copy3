@@ -1,0 +1,26 @@
+{
+  "document_type": "resume",
+  "candidate_name": "Vikramaditya Patel",
+  "email": "vikram.patel@embeddedsec.in",
+  "phone": "+91 98201 44892",
+  "skills": [
+    "RTOS {FreeRTOS",
+    "Zephyr)",
+    "Embedded C/C++",
+    "ARM Cortex-M/R",
+    "RISC-V",
+    "SPL",
+    "12C",
+    "CAN Bus",
+    "Hardware Security Modules {HSM}",
+    "Se"
+  ],
+  "education": [
+    "M.Tech in Embedded Systems & VLSI Design —IIT Bombay Graduated 2018",
+    "BTech in Electronics & Communication Engineering — NIT Trichy Graduated 2016"
+  ],
+  "experience": [
+    "8.0"
+  ],
+  "years_experience": 8.0
+}
